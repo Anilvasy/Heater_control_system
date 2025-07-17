@@ -45,9 +45,9 @@ This project implements a heater control system featuring temperature/humidity s
 
 ## 📄 Design Document
 --> upliance_assignment.pdf for complete architecture, state diagrams, flow, and system overview.
-
-## 📷 Screenshots
---> simulation.png
+________________________________________________________________________________________________________
+|--->Execution video: https://drive.google.com/file/d/18OcdW_Zzb6vchuQTLb-v9jZY5_czGPiH/view?usp=sharing |
+__________________________________________________________________________________________________________
 
 ## 🔗 License
 This project is licensed under the MIT License
