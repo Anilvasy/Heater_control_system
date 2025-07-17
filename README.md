@@ -1,6 +1,7 @@
 # Temperature and Humidity Controller with DHT22 and LCD
 
-This project implements a real-time temperature and humidity monitoring system using the DHT22 sensor, LCD (I2C), and interrupt-based button handling using FreeRTOS (optional). It includes both auto and manual override modes.
+This project implements a heater control system featuring temperature/humidity sensing, visual feedback via LEDs and a buzzer, manual override via a button interrupt, and an LCD.
+
 
 ## 💡 Features
 - Read temperature and humidity from DHT22
