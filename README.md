@@ -40,13 +40,13 @@ This project implements a real-time temperature and humidity monitoring system u
    - DHT Sensor Library
    - Adafruit Unified Sensor
    - LiquidCrystal_I2C
-5. Upload to board
+5. Upload to the board
 
 ## 📄 Design Document
-See ./DESIGN.pdf) for complete architecture, state diagrams, flow, and system overview.
+--> upliance_assignment.pdf for complete architecture, state diagrams, flow, and system overview.
 
 ## 📷 Screenshots
-LCD Display:(media/simulation_screenshot.png)
+--> simulation.png
 
 ## 🔗 License
 This project is licensed under the MIT License
